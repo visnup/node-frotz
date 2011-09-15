@@ -1,3 +1,3 @@
-# nc visnup.com 1337
+# nc visnup.com 42
 
 - telnet has a double newline bug... any help?
