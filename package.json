@@ -1,0 +1,16 @@
+{
+  "author": "Visnu Pitiyanuvath <visnupx@gmail.com>",
+  "name": "frotz",
+  "description": "Wrap frotz on telnet",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:visnup/node-frotz.git"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "~v0.4.11"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
